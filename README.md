@@ -137,4 +137,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # VaultMind-AI-Brower-extension-
 VaultMind Chrome Extension is an AI‑powered, TypeScript‑based browser tool designed to intelligently manage and safeguard access to your online activity. With its lightweight, customizable interface, VaultMind provides users with enhanced control, blending security and cognition to create a smarter browsing experience.
->>>>>>> 83ac48d8b3c8315599ab9127da6b75afe886a5ff
+
