@@ -121,20 +121,11 @@ Vault mind -chrome-extension/
 - Vault unlock mechanism provides an additional layer of security
 - Tokens are stored securely using Chrome's storage API
 
-## 🌐 Backend
-
-Vault mind  requires a backend server to function. The backend repository can be found here:
-- [Backend Repository](https://github.com/milanbairagi/LockLeaf)
-
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 
-## Other Resources
-- Backend: [LockLeaf](https://github.com/milanbairagi)
-=======
-# VaultMind-AI-Brower-extension-
-VaultMind Chrome Extension is an AI‑powered, TypeScript‑based browser tool designed to intelligently manage and safeguard access to your online activity. With its lightweight, customizable interface, VaultMind provides users with enhanced control, blending security and cognition to create a smarter browsing experience.
+
 
