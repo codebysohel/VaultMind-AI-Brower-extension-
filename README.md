@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# LeafLock
+# Vault mind 
 
-A secure password manager Chrome extension built with React, TypeScript, and Vite. LeafLock helps you securely store, manage, and access your passwords directly from your browser.
+A secure password manager Chrome extension built with React, TypeScript, and Vite. Vault mind  helps you securely store, manage, and access your passwords directly from your browser.
 
 ## ✨ Features
 
@@ -35,8 +34,8 @@ A secure password manager Chrome extension built with React, TypeScript, and Vit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/milanbairagi/leaflock-chrome-extension.git
-   cd leaflock-chrome-extension
+   git clone https://github.com/milanbairagi/Vault mind -chrome-extension.git
+   cd Vault mind -chrome-extension
    ```
 
 2. **Install dependencies**
@@ -81,12 +80,12 @@ Download the extension from the Chrome Web Store (_coming soon_).
    npm run build
    ```
 
-2. Go to `chrome://extensions/` and click the refresh icon on the LeafLock extension
+2. Go to `chrome://extensions/` and click the refresh icon on the Vault mind  extension
 
 ## 📁 Project Structure
 
 ```
-leaflock-chrome-extension/
+Vault mind -chrome-extension/
 ├── public/
 │   └── manifest.json                # Chrome extension manifest
 ├── src/
@@ -124,7 +123,7 @@ leaflock-chrome-extension/
 
 ## 🌐 Backend
 
-LeafLock requires a backend server to function. The backend repository can be found here:
+Vault mind  requires a backend server to function. The backend repository can be found here:
 - [Backend Repository](https://github.com/milanbairagi/LockLeaf)
 
 
