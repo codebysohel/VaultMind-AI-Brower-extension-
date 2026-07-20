@@ -1,4 +1,4 @@
-# Vault mind 
+# Vault mind Brower extension 
 
 A secure password manager Chrome extension built with React, TypeScript, and Vite. Vault mind  helps you securely store, manage, and access your passwords directly from your browser.
 
@@ -124,7 +124,7 @@ Vault mind -chrome-extension/
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the (LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
