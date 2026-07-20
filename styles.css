@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+body {
+    width: 300px;
+    height: 500px;    
+}
+/* Scrollbar styling */
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+#root {
+    width: 100%;
+    height: 100%;
+    background: none;
+}
+
+@theme {
+    /* Gray (Primary) */
+    --color-primary-0: #c6c7c7;
+    --color-primary-10: #a1a1a2;
+    --color-primary-20: #7b7b7d;
+    --color-primary-30: #555658;
+    --color-primary-40: #424345; /* Base */
+    --color-primary-50: #3b3c3e;
+    --color-primary-60: #353637;
+    --color-primary-70: #282829;
+    --color-primary-80: #292b29;
+    --color-primary-90: #141415;
+    --color-primary-100: #141415;
+    --color-primary-110: #070707;
+
+    /* Gray (Secondary) */
+    --color-secondary-0: #d1d2d2;
+    --color-secondary-10: #ababac;
+    --color-secondary-20: #858687;
+    --color-secondary-30: #5f6062;
+
+    /* Green (Accent) */
+    --color-accent-0: #b0d3a7;
+    --color-accent-10: #a3cc98;
+    --color-accent-20: #96c589;
+    --color-accent-30: #96c589;
+    --color-accent-40: #89bd7b;
+    --color-accent-50: #7cb66c; /* Base */
+    --color-accent-60: #70a461;
+    --color-accent-70: #639256;
+    --color-accent-80: #577f4c;
+    --color-accent-90: #4a6d41;
+
+    /* Red (Tertiary) */
+    --color-tertiary-0: #d3ada7;
+    --color-tertiary-10: #cc9f98;
+    --color-tertiary-20: #c59189;
+    --color-tertiary-30: #c59189;
+    --color-tertiary-40: #bd847b;
+    --color-tertiary-50: #b6766c; /* Base */
+    --color-tertiary-60: #a46a61;
+    --color-tertiary-70: #925e56;
+    --color-tertiary-80: #7f534c;
+    --color-tertiary-90: #6d4741;
+
+    /* Background */
+    --color-background: #1f2122;
+}
+
+:root {
+    color-scheme: dark;;
+}
